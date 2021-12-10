@@ -1,2 +1,2 @@
 # SimpleDetection
-A simple object and face detection tool using OpenCV and NumPy.
+A simple multi-detection tool using OpenCV and other libraries.
